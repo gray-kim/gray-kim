@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=gray-kim&animation=fadeIn&fontAlignY=30&desc=web%20developer%20gray-kim's%20profile😄&fontSize=90&descAlignY=51&descAlign=62)
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgray-kim%2Fhit-counter&count_bg=%238FBE6A&title_bg=%239C9C9C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gray-kim)](https://github.com/anuraghazra/github-readme-stats)
