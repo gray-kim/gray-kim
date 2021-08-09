@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgray-kim%2Fhit-counter&count_bg=%238FBE6A&title_bg=%239C9C9C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gray-kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gray-kim&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gray-kim&repo=kakao-clone-2.0)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gray-kim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
